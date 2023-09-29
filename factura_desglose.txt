@@ -1,0 +1,9 @@
+Factura:
+Nombre: {nombre}
+ID: {id}
+Carrera: {carrera}
+Materia: {materia}
+Horario: {horario}
+Costo sin IVA: {costo_sin_iva}
+IVA (13%): {iva}
+Costo Total: {costo_total}
